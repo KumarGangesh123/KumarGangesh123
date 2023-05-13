@@ -1,4 +1,4 @@
-![logo](https://github.com/KumarGangesh123/KumarGangesh123/blob/main/Tech-Android-GIF-by-Google-Dev-unscreen.gif)
+![logo](https://github.com/KumarGangesh123/KumarGangesh123/blob/main/image1.gif)
 <h1 align="center">Hi 👋, I'm Gangesh Kumar</h1>
 <h3 align="center">A passionate Java Backend Developer from India</h3>
 
